@@ -1,0 +1,22 @@
+<svg width="63" height="64" viewBox="0 0 63 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="graph">
+<g id="chart">
+<rect id="01" y="10.7162" width="4.62385" height="19.8649" rx="2.31193" fill="#31D691"/>
+<rect id="02" x="19.6514" y="13.554" width="4.62385" height="17.027" rx="2.31193" fill="#31D691"/>
+<rect id="03" x="38.7249" y="10.7162" width="4.62385" height="19.8649" rx="2.31193" fill="#31D691"/>
+<rect id="04" x="58.3762" y="13.554" width="4.62385" height="17.027" rx="2.31193" fill="#31D691"/>
+<rect id="05" x="48.5505" y="0.5" width="4.62385" height="30.0811" rx="2.31193" fill="#0DBC79"/>
+<rect id="06" x="28.8992" y="16.9595" width="5.20183" height="13.6216" rx="2.60092" fill="#0DBC79"/>
+<rect id="07" x="9.82568" y="0.5" width="4.62385" height="30.0811" rx="2.31193" fill="#0DBC79"/>
+</g>
+<g id="chart_2">
+<rect id="01_2" width="4.62385" height="19.8649" rx="2.31193" transform="matrix(1 0 0 -1 0 53.2838)" fill="#0DBC79"/>
+<rect id="02_2" width="4.62385" height="17.027" rx="2.31193" transform="matrix(1 0 0 -1 19.6514 50.446)" fill="#0DBC79"/>
+<rect id="03_2" width="4.62385" height="19.8649" rx="2.31193" transform="matrix(1 0 0 -1 38.7249 53.2838)" fill="#0DBC79"/>
+<rect id="04_2" width="4.62385" height="17.027" rx="2.31193" transform="matrix(1 0 0 -1 58.3762 50.446)" fill="#0DBC79"/>
+<rect id="05_2" width="4.62385" height="30.0811" rx="2.31193" transform="matrix(1 0 0 -1 48.5505 63.5)" fill="#31D691"/>
+<rect id="06_2" width="5.20183" height="13.6216" rx="2.60092" transform="matrix(1 0 0 -1 28.8992 47.0405)" fill="#31D691"/>
+<rect id="07_2" width="4.62385" height="30.0811" rx="2.31193" transform="matrix(1 0 0 -1 9.82568 63.5)" fill="#31D691"/>
+</g>
+</g>
+</svg>
