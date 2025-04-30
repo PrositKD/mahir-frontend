@@ -3,7 +3,7 @@ const nextConfig = {
     env: {
       backend_url:
         process.env.NODE_ENV === "production"
-          ? "https://mahir-frontend.vercel.app/"
+          ? "https://mahir-backend.vercel.app/"
           : "https://mahir-backend.vercel.app/",
           // : "https://api.agency.appstick.com.bd/"
       // socket_url:
