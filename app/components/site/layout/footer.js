@@ -148,7 +148,7 @@ const Footer = () => {
           </div>
           <p className="text-[#888AA0] description-2 mt-3 sm:mt-0">
             Copyright © {currentYear || new Date().getFullYear()} All rights
-            reserved <Link href="/">Agencistick</Link>
+            reserved | Developed By <Link href="/">ZAMAN IT</Link>
           </p>
         </div>
       </div>
