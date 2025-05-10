@@ -3,8 +3,8 @@ const nextConfig = {
     env: {
       backend_url:
         process.env.NODE_ENV === "production"
-          ? "https://api.zaman.group/"
-          : "https://api.zaman.group/",
+          ? "https://mahir-backend.vercel.app/"
+          : "https://mahir-backend.vercel.app/",
           // : "https://api.agency.appstick.com.bd/"
       // socket_url:
       //   process.env.NODE_ENV === "production"
